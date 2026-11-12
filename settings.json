@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "ParadoxKiPatni",
     "password": "ParadoxKiPatni",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Paradox988gamer.aternos.me",
@@ -31,15 +31,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to @DominatorOG",
-        "I like to play Minecraft!"
+        "Me Paradox ki patni hu",
+        "mere husband ka YT h @DominatorOG",
+        "mere husband 8 years se Minecraft khel rahe hain..."
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 120000002000,
+    "max-reconnect-delay": 12000099912233
   },
   "movement": {
     "enabled": true,
@@ -58,7 +58,7 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
+    "avoidMobs": false,
     "combat": true,
     "beds": true,
     "chat": true,
